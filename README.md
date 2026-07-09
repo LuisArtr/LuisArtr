@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Luís Artur 👋</h1>
-<h3 align="center">Estudante de Ciência da Computação | Aspirante a Desenvolvedor Backend</h3>
+<h3 align="center">Estudante de Ciência da Computação | Inclinado Desenvolvedor Backend</h3>
 <p align="center">
   🎓 Cursando Bacharelado em Ciência da Computação (UNIP) &nbsp;|&nbsp;
   🖥️ Técnico em Desenvolvimento de Sistemas &nbsp;|&nbsp;
@@ -32,11 +32,8 @@
 
 
 Projetos_Apredizado — Projetos desenvolvidos em sala de aula, aplicando na prática os conhecimentos técnicos adquiridos no curso.
-🔜 Em breve: novos projetos de automação em Python e dashboards em Power BI.
+🔜 Novos projetos de automação em Python e dashboards em Power BI.
 
-
-
-💡 Estou sempre adicionando novos projetos aqui — fique à vontade para explorar meus repositórios!
 
 
 
