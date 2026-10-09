@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Luís Artur 👋</h1>
-<h3 align="center">Estudante de Ciência da Computação | Inclinado Desenvolvedor Backend</h3>
+<h3 align="center">Estudante de Ciência da Computação </h3>
 <p align="center">
   🎓 Cursando Bacharelado em Ciência da Computação (UNIP) &nbsp;|&nbsp;
   🖥️ Técnico em Desenvolvimento de Sistemas &nbsp;|&nbsp;
@@ -9,9 +9,9 @@
 🚀 Sobre mim
 
 
-🔭 Atualmente focado em construir uma base sólida em desenvolvimento backend
+🔭 Atualmente focado em construir uma base sólida em desenvolvimento de Competências Técnicas
 🌱 Estudando Python, lógica de programação e banco de dados
-💬 Pode me perguntar sobre lógica de programação, automação e Power BI
+💬 Pode me perguntar sobre lógica de programação e automação 
 📫 Como me encontrar: LinkedIn
 ⚡ Em busca da minha primeira oportunidade na área de tecnologia
 
@@ -33,18 +33,3 @@
 
 Projetos_Apredizado — Projetos desenvolvidos em sala de aula, aplicando na prática os conhecimentos técnicos adquiridos no curso.
 🔜 Novos projetos de automação em Python e dashboards em Power BI.
-
-
-
-
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisArtr&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisArtr&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisArtr&label=Visualizações+do+perfil&color=1F3A5F&style=flat" alt="profile views"/>
-</p>
